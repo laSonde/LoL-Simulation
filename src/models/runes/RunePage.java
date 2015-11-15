@@ -1,4 +1,4 @@
-package models;
+package models.runes;
 
 import java.util.LinkedList;
 import java.util.List;

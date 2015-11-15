@@ -1,4 +1,4 @@
-package models;
+package models.masteries;
 
 public class MasteryPage {
 
