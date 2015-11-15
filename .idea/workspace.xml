@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31b7731c-5031-4f14-a7fb-cba32b780dfd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/Buff.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/champions/Champion.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/items/Build.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/items/Item.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/monsters/Monster.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/models/structures/Structure.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/models/Champion.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/models/Monster.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/models/Glyphe.java" afterPath="$PROJECT_DIR$/src/models/runes/Glyphe.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/models/Mark.java" afterPath="$PROJECT_DIR$/src/models/runes/Mark.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/models/Mastery.java" afterPath="$PROJECT_DIR$/src/models/masteries/Mastery.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/models/MasteryPage.java" afterPath="$PROJECT_DIR$/src/models/masteries/MasteryPage.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/models/Quintessence.java" afterPath="$PROJECT_DIR$/src/models/runes/Quintessence.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/models/Rune.java" afterPath="$PROJECT_DIR$/src/models/runes/Rune.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/models/RunePage.java" afterPath="$PROJECT_DIR$/src/models/runes/RunePage.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/models/Sceal.java" afterPath="$PROJECT_DIR$/src/models/runes/Sceal.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/models/Being.java" afterPath="$PROJECT_DIR$/src/models/Being.java" />
-    </list>
+    <list default="true" id="31b7731c-5031-4f14-a7fb-cba32b780dfd" name="Default" comment="" />
     <ignored path="LoL-Simulation.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -637,6 +616,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="31b7731c-5031-4f14-a7fb-cba32b780dfd" name="Default" comment="" />
@@ -648,7 +630,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1612" height="876" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -672,6 +654,14 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
